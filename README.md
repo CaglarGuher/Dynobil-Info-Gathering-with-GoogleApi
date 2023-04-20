@@ -1,6 +1,6 @@
 # Summary of the Script
 
-This script is designed to collect, clean, and analyze data related to Dynobil, a fictional car inspection company. The main goal is to gather information about Dynobil locations and their competitors, as well as other relevant data such as notary offices and car dealerships. The script then calculates the distance between these points of interest and combines this information with demographic data from a dataset called endeksa. The final output is a cleaned and organized dataset ready for further analysis.
+This script is designed to collect, clean, and analyze data related to Dynobil, a car inspection company. The main goal is to gather information about Dynobil locations and their competitors, as well as other relevant data such as notary offices and car dealerships. The script then calculates the distance between these points of interest and combines this information with demographic data from a dataset called endeksa. The final output is a cleaned and organized dataset ready for further analysis.
 
 ## Key Functions
 
